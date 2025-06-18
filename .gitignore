@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+build/
+plot.png
+plot.dat
+plot.gp
